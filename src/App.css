@@ -32,7 +32,15 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.country {
+  background-color: lightgreen;
+  border: 1px solid red;
+  margin: 15px;
+  border-radius: 15px;
 }
